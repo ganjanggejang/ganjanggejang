@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi~ 👋
 
 <!--
 **ganjanggejang/ganjanggejang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Junsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganjanggejang&show_icons=true&theme=gruvbox)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junsoo2018)](https://solved.ac/junsoo2018/)
+
+###
+[![My notion Algorithm note](https://img.shields.io/badge/My%20notion%20algorithm%20note-000000.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://junsoo2018.notion.site/b939e8132e1849b98523732792e2da94?v=ac5131a038d34b528c66e87d50c87c1b)
